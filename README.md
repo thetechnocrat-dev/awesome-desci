@@ -134,10 +134,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 [VitaDAO](https://www.vitadao.com/)[🌐](https://desci.world/project/625fb37edcfaec643ea479aa)|Biopharma, Science DeFi, Philanthropy|Europe
 [Weavechain](https://www.weavechain.com/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a8)|Data storage, Blockchain protocols|North America
 [Web3 Women in Science](https://womeninscience.xyz/)[🌐](https://desci.world/project/63746508cabb12576663d18d)|Focused Research, Philanthropy, Ecosystems|North America
-[WeedWorks](https://www.weedworks.io/)[🌐](https://desci.world/project/63975df7527b85bd9e2043c9)|Focused Research|North America
-  
- 
- 
+[WeedWorks](https://www.weedworks.io/)[🌐](https://desci.world/project/63975df7527b85bd9e2043c9)|Focused Research|North America 
  
   ---
 ## Scientific papers
@@ -185,6 +182,14 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   **Wittek** K. et al (2021). [A Blockchain-Based Approach to Provenance and Reproducibility in Research Workflows](https://arxiv.org/ftp/arxiv/papers/2202/2202.13747.pdf). IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2021, pp. 1-6
   
     
+---
+
+## Software
+
+| Name | Description | Links |
+| ------------- | --------------------- | ------------- |
+PLEX | Run scientific workflows on decentralized compute | [Github](https://github.com/labdao/plex) [PyPi](https://pypi.org/project/PlexLabExchange/) [Docs](https://docs.labdao.xyz/)
+IP-NFT | Mint intelecutal property as an NFT | [Github](https://github.com/moleculeprotocol/IPNFT) [Docs](https://docs.molecule.to/documentation/ip-nfts/intro-to-ip-nft)
 ---
   
 ## Articles
